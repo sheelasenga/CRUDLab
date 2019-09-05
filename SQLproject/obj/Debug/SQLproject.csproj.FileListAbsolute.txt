@@ -1,0 +1,7 @@
+C:\Users\SSengamalam\source\repos\SQLproject\SQLproject\bin\Debug\SQLproject.exe.config
+C:\Users\SSengamalam\source\repos\SQLproject\SQLproject\bin\Debug\SQLproject.exe
+C:\Users\SSengamalam\source\repos\SQLproject\SQLproject\bin\Debug\SQLproject.pdb
+C:\Users\SSengamalam\source\repos\SQLproject\SQLproject\obj\Debug\SQLproject.csprojAssemblyReference.cache
+C:\Users\SSengamalam\source\repos\SQLproject\SQLproject\obj\Debug\SQLproject.csproj.CoreCompileInputs.cache
+C:\Users\SSengamalam\source\repos\SQLproject\SQLproject\obj\Debug\SQLproject.exe
+C:\Users\SSengamalam\source\repos\SQLproject\SQLproject\obj\Debug\SQLproject.pdb
